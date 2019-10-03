@@ -1,0 +1,11 @@
+﻿Сборка начата 19.09.2016 9:52:30.
+     1>Проект "D:\projectC(cblock)\С++\zastavnoi\compnet\task1-nslookup\task1-nslookup\task1-nslookup.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "t1-nslookup.cpp"
+         t1-nslookup.cpp
+     1>d:\projectc(cblock)\с++\zastavnoi\compnet\task1-nslookup\task1-nslookup\t1-nslookup.cpp(12): error C3861: printf: идентификатор не найден
+     1>Сборка проекта "D:\projectC(cblock)\С++\zastavnoi\compnet\task1-nslookup\task1-nslookup\task1-nslookup.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.07
